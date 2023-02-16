@@ -1,2 +1,3 @@
 # Minecraft-plugin-VisibleDamaging
-Make damage visible with armorstand
+contains a function which can summon an armorstand which can make damage visible
+
