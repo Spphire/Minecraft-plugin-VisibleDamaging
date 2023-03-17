@@ -1,0 +1,6 @@
+name: DamageVisualize
+version: '${project.version}'
+main: apricity.damagevisualize.DamageVisualize
+api-version: 1.19
+authors: [ Apricity ]
+description: Visualize damage
